@@ -1,0 +1,63 @@
+Material system: SiThickness220nm
+No. of channels: 3
+1. stigmatic point: 1
+2. stigmatic point: 3
+Grating order: 9
+Min. radius: 100 µm
+Max. radius: 1000 µm
+2. TSP radius offset: 0 µm
+Grating opening angle: 30°
+Blaze shift: 0 µm
+Common port: X=0 Y=0
+Distinct ports:
+No.  X(µm)  Y(µm)  Wavelength(nm)  Eff.RefractiveIndex
+1  20  0  1543.7305  2.850937741428251
+2  24.7687  -0.10362  1550.1161  2.847417675410893
+3  30  0  1556.5548  2.843880284551756
+
+--BraggGratings--
+Periods: 4
+PeriodLength: 361 nm
+SiO2 length: 180.5 nm
+Boundary distance: 10000 nm
+Reflector spacing: 185 nm
+
+--Port layout--
+Waveguide width: 450 nm
+Taper end width: 2000 nm
+Taper length: 30000 nm
+Waveguide stub length: 2000 nm
+Taper shift: 0 nm
+Trench width: 1000 nm
+Trench2 width: 1000 nm
+
+Comsol min. wavelength: 1500 nm
+Comsol max. wavelength: 1600 nm
+Comsol wavelength step: 2 nm
+Comsol free space area partitions: 48
+Comsol border (0=reduced, 1=full (GDS)): 0
+Comsol S-bends (0=no, 1=yes): 0
+GDS Echelle ID: EG_01
+
+GDS (and Comsol) waveguide length for S-bends: 200000 nm
+GDS (and Comsol) waveguide pitch: 2500 nm
+GDS (and Comsol) curve discretization: 200
+
+GDS Beveling min. Angle: 85°
+GDS Beveling Bevel size: 151nm
+GDS Beveling Bevel size for attenuators: 310nm
+Cladding Block Mode: 1
+Block Mode Trench Width: 1600nm
+
+Grating points found: 69
+Real min. radius: 101.5 µm
+Real max. radius: 262.6101 µm
+Real opening angle: 30.1539°
+Area of reduced free space area: 13467.5034 µm²
+Area of full free space area: 15198.5026 µm²
+Area of full free space area cladding: 16230.9969 µm²
+
+Project generated: 2022-11-24 16:36:26
+with: Echelle Layout Program 2
+      by Dr.-Ing. Marc Schneider (KIT)
+      v1.3 from 2022-09-05
