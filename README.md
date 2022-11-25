@@ -19,7 +19,7 @@ grating in a chip design. Additionally a sample file for Synopsys
 OptoDesigner is generated.
 
 The project is published under the MIT license (see LICENSE), with the
-following exception:
+following exceptions:
 
 - The function 'gdsii_boundarytext_Bevel2.m' is a modified version of
   a function from the gdsii-toolbox of Ulf Griesmann
