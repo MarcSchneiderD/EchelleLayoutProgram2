@@ -26,7 +26,7 @@ following exception:
   (https://github.com/ulfgri/gdsii-toolbox). The toolbox is in the
   public domain, so I don't want to put my additions under a more
   restrictive license. Therefore this function is also in the public domain.
-
+- The included logo pictures are not covered by the MIT license.
 
 This software was developed at the Karlsruhe Institute of Technology (KIT),
 Germany. This software is an experimental system. KIT assumes no
