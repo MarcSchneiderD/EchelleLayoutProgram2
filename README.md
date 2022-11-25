@@ -3,6 +3,7 @@ Echelle Layout Program 2
 ===============================================
 
 Marc Schneider, 2021 - 2022
+
 marc.schneider@kit.edu
 
 When designing integrated wavelength division multiplexing systems using
@@ -54,6 +55,10 @@ The data is used for the Material Chooser. Extend the file to your own needs.
 
 The main program is "MarcEchelle.mlapp" and runs in Matlabs App Designer.
 Or at least it should, if all required parts are included in Matlabs search path.
+
+'MarcEchelle_exported.m' and 'MarcEchelle_ITUChooser_exported.m' are the exported
+versions of the respective .mlapp files for better readability and easier tracking
+of changes.
 
 
 Help
