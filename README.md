@@ -37,7 +37,7 @@ other characteristics.
 
 
 
-To run the program to its full extend, you still need
+To run the program to its full extent, you still need
 - GDSII Toolbox v1.41 from Ulf Griesmann (https://github.com/ulfgri/gdsii-toolbox)
 - COMSOL Multiphysics (installed with MATLAB support)
 
