@@ -1,0 +1,68 @@
+Material system: SiThickness211nm
+No. of channels: 8
+1. stigmatic point: 2
+2. stigmatic point: 7
+Grating order: 9
+Min. radius: 100 µm
+Max. radius: 1000 µm
+2. TSP radius offset: -2.3 µm
+Grating opening angle: 60°
+Blaze shift: 5 µm
+Common port: X=0 Y=0
+Distinct ports:
+No.  X(µm)  Y(µm)  Wavelength(nm)  Eff.RefractiveIndex
+1  3.918  0.037043  1540.5573  2.821948610606809
+2  6  0  1543.7305  2.820155748553936
+3  8.1183  -0.025815  1546.9167  2.818358588822774
+4  10.2748  -0.03961  1550.1161  2.816557200666083
+5  12.4721  -0.040532  1553.3288  2.814751568760423
+6  14.7128  -0.027681  1556.5548  2.812941417774776
+7  17  0  1559.7943  2.811127033867000
+8  19.3377  0.043605  1563.0472  2.809308162310065
+
+--BraggGratings--
+Periods: 8
+PeriodLength: 373 nm
+SiO2 length: 186.5 nm
+Boundary distance: 10000 nm
+Reflector spacing: 185 nm
+
+--Port layout--
+Waveguide width: 450 nm
+Taper end width: 1000 nm
+Taper length: 15000 nm
+Waveguide stub length: 2000 nm
+Taper shift: 0 nm
+Trench width: 750 nm
+Trench2 width: 2000 nm
+
+Comsol min. wavelength: 1535 nm
+Comsol max. wavelength: 1568 nm
+Comsol wavelength step: 0.2 nm
+Comsol free space area partitions: 48
+Comsol border (0=reduced, 1=full (GDS)): 0
+Comsol S-bends (0=no, 1=yes): 0
+GDS Echelle ID: EG_01
+
+GDS (and Comsol) waveguide length for S-bends: 75000 nm
+GDS (and Comsol) waveguide pitch: 5500 nm
+GDS (and Comsol) curve discretization: 200
+
+GDS Beveling min. Angle: 85°
+GDS Beveling Bevel size: 151nm
+GDS Beveling Bevel size for attenuators: 310nm
+Cladding Block Mode: 1
+Block Mode Trench Width: 1600nm
+
+Grating points found: 153
+Real min. radius: 101.4623 µm
+Real max. radius: 472.9225 µm
+Real opening angle: 60.2058°
+Area of reduced free space area: 56170.7815 µm²
+Area of full free space area: 58617.7731 µm²
+Area of full free space area cladding: 60437.6122 µm²
+
+Project generated: 2023-04-12 12:32:16
+with: Echelle Layout Program 2
+      by Dr.-Ing. Marc Schneider (KIT)
+      v1.3 from 2022-09-05
